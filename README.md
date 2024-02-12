@@ -33,7 +33,6 @@ finding a possibility to move and "YES" is displayed.
 table we have ok=0, then "NO" is displayed.
 
 ## Problem 3:
-problem 4
 - it is known that eight numbers are read, so when reading we make a vector with eight numbers
 - each number is converted to base two, but with eight bits/eight digits
 - then each number from that one in base two is put in a matrix of strings
